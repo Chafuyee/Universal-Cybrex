@@ -1,2 +1,2 @@
 # Universal-Cybrex
-The universal repository for the local Cybrex Repository.
+The universal repository for the local Cybrex Enterprise.
